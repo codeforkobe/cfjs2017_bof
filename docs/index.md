@@ -1,11 +1,14 @@
 
-Code for Japan SUMMIT 2017 の BoF の枠で、話したいテーマを募集しています。
+Code for Japan SUMMIT 2017 の BoF の枠で、話したいトピックを募集しています。
 
 新規テーマは[こちら](https://github.com/codeforkobe/cfjs2017_bof/issues/new)から登録をお願いします！
 
 「お！このテーマ参加するぞ！」と思った方は「LGTM」など適当に反応して頂けると、人数にカウントします。
 
+補足で話したいことをコメントで追記するなども大歓迎！
+
 ---
+現在登録されているトピック
 
 <ul id="issues">
 </ul>
